@@ -13,4 +13,5 @@ This repository contains my SQL solutions to LeetCode problems, focused on impro
 | [0197-rising-temperature](https://github.com/benjamin-insights/SQL-Consistency/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/benjamin-insights/SQL-Consistency/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/benjamin-insights/SQL-Consistency/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/benjamin-insights/SQL-Consistency/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
