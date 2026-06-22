@@ -22,4 +22,5 @@ This repository contains my SQL solutions to LeetCode problems, focused on impro
 | [0619-biggest-single-number](https://github.com/benjamin-insights/SQL-Consistency/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/benjamin-insights/SQL-Consistency/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/benjamin-insights/SQL-Consistency/tree/master/0627-swap-sex-of-employees) |
+| [1757-recyclable-and-low-fat-products](https://github.com/benjamin-insights/SQL-Consistency/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
